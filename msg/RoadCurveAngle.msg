@@ -1,2 +1,2 @@
 std_msgs/Header header
-double angle
+float64 angle
